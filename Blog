@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Muskorvsky's site</title>
+  </head>
+  <body>
+   <body style="background-color:antiquewhite;"
+    <h1> <p style="font-family: times_new_roman, serif; font-size:22pt; font-style:Bold; color:grey" >
+      Hello! Welcome to Muskorvsky's site </p>
+    </h1>
+  <nav-bar>
+    <button>Home</button> 
+    <button>About me</button>
+    <button>Contact me</button>
+    <button>More...</button>
+    <button>Settings</button>
+    <button>My mission</button>
+    <button>My Job</button>
+</nav-bar>
+*The button is without the border
+ 
+
+ <p> <button onclick="window.location.href='https://www.youtube.com/channel/UCauW_Sf-Rte1Fk1LDV7GSuw';">
+    Check out my Youtube Channel
+  </button>
+  </p> <button onclick="window.location.href='https://www.instagram.com/technixan/';">
+    Check out my Instagram account
+  </button>
+  </body>
+</html>
